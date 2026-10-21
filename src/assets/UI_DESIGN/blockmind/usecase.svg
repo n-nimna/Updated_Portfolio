@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="40 66 620 540" width="620" height="540" font-family="Arial, Helvetica, sans-serif">
+<rect x="40" y="66" width="620" height="540" fill="#ffffff"/>
+<text x="259" y="92" font-size="13" fill="#222">BlockMind System</text>
+<rect x="255" y="100" width="380" height="490" fill="none" stroke="#111" stroke-width="1.6" stroke-dasharray="6 5"/>
+<line x1="150" y1="322" x2="367" y2="140" stroke="#555" stroke-width="1"/>
+<line x1="150" y1="322" x2="367" y2="198" stroke="#555" stroke-width="1"/>
+<line x1="150" y1="322" x2="367" y2="256" stroke="#555" stroke-width="1"/>
+<line x1="150" y1="322" x2="367" y2="314" stroke="#555" stroke-width="1"/>
+<line x1="150" y1="322" x2="367" y2="372" stroke="#555" stroke-width="1"/>
+<line x1="150" y1="322" x2="367" y2="430" stroke="#555" stroke-width="1"/>
+<line x1="150" y1="322" x2="367" y2="488" stroke="#555" stroke-width="1"/>
+<line x1="150" y1="322" x2="367" y2="546" stroke="#555" stroke-width="1"/>
+<ellipse cx="445" cy="140" rx="82" ry="26" fill="#f1f1f1" stroke="#222" stroke-width="1.4"/>
+<text x="445" y="137" font-size="13" text-anchor="middle" fill="#111">View Home</text><text x="445" y="153" font-size="13" text-anchor="middle" fill="#111">Dashboard</text>
+<ellipse cx="445" cy="198" rx="82" ry="26" fill="#f1f1f1" stroke="#222" stroke-width="1.4"/>
+<text x="445" y="195" font-size="13" text-anchor="middle" fill="#111">Select Apps</text><text x="445" y="211" font-size="13" text-anchor="middle" fill="#111">to Block</text>
+<ellipse cx="445" cy="256" rx="82" ry="26" fill="#f1f1f1" stroke="#222" stroke-width="1.4"/>
+<text x="445" y="253" font-size="13" text-anchor="middle" fill="#111">Set Usage</text><text x="445" y="269" font-size="13" text-anchor="middle" fill="#111">Limits</text>
+<ellipse cx="445" cy="314" rx="82" ry="26" fill="#f1f1f1" stroke="#222" stroke-width="1.4"/>
+<text x="445" y="311" font-size="13" text-anchor="middle" fill="#111">Activate /</text><text x="445" y="327" font-size="13" text-anchor="middle" fill="#111">Stop Blocking</text>
+<ellipse cx="445" cy="372" rx="82" ry="26" fill="#f1f1f1" stroke="#222" stroke-width="1.4"/>
+<text x="445" y="369" font-size="13" text-anchor="middle" fill="#111">Configure</text><text x="445" y="385" font-size="13" text-anchor="middle" fill="#111">Focus Session</text>
+<ellipse cx="445" cy="430" rx="82" ry="26" fill="#f1f1f1" stroke="#222" stroke-width="1.4"/>
+<text x="445" y="427" font-size="13" text-anchor="middle" fill="#111">Start</text><text x="445" y="443" font-size="13" text-anchor="middle" fill="#111">Focus Session</text>
+<ellipse cx="445" cy="488" rx="82" ry="26" fill="#f1f1f1" stroke="#222" stroke-width="1.4"/>
+<text x="445" y="485" font-size="13" text-anchor="middle" fill="#111">View Usage</text><text x="445" y="501" font-size="13" text-anchor="middle" fill="#111">Insights</text>
+<ellipse cx="445" cy="546" rx="82" ry="26" fill="#f1f1f1" stroke="#222" stroke-width="1.4"/>
+<text x="445" y="543" font-size="13" text-anchor="middle" fill="#111">Manage</text><text x="445" y="559" font-size="13" text-anchor="middle" fill="#111">Settings</text>
+<circle cx="80" cy="270" r="12" fill="#fff" stroke="#111" stroke-width="1.6"/>
+<line x1="80" y1="282" x2="80" y2="322" stroke="#111" stroke-width="1.6"/>
+<line x1="58" y1="298" x2="102" y2="298" stroke="#111" stroke-width="1.6"/>
+<line x1="80" y1="322" x2="62" y2="352" stroke="#111" stroke-width="1.6"/>
+<line x1="80" y1="322" x2="98" y2="352" stroke="#111" stroke-width="1.6"/>
+<line x1="102" y1="298" x2="150" y2="322" stroke="#555" stroke-width="1"/>
+<text x="80" y="376" font-size="13" text-anchor="middle" fill="#111">User</text>
+<text x="80" y="393" font-size="12" text-anchor="middle" fill="#444">(Individual)</text>
+</svg>
