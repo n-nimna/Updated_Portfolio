@@ -435,3 +435,9 @@ html, body { overflow-x:clip; }
 .marquee .feat-glass h3 { font-size:1.7rem; } .marquee .feat-chip { font-size:.7rem; }
 .marquee .feat-card.fit-contain img { padding:6px 0 104px; }
 @media(max-width:640px){ .marquee { margin-left:calc(50% - 50vw); margin-right:0; } .marquee .feat-card { flex-basis:260px; height:350px; border-radius:24px; } .marquee .feat-glass h3{ font-size:1.35rem; } .marquee .feat-card.fit-contain img { padding:6px 0 92px; } }
+
+/* testimonials: all cards the same height, author line at the bottom */
+.testi-grid, .testi-grid.one { align-items:stretch; }
+.testi { display:flex; flex-direction:column; }
+.testi p { margin-bottom:22px; }
+.testi .who { margin-top:auto; }

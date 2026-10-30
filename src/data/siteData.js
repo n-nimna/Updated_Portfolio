@@ -40,6 +40,7 @@ import auraImg from "../assets/GRAPHIC_DESIGN/aura-global.png";
 import auraPoster from "../assets/UI_DESIGN/aura/poster.png";
 import auraLogos from "../assets/UI_DESIGN/aura/logos.png";
 import dulithiPhoto from "../assets/TESTIMONIALS/dulithi-de-silva.jpg";
+import darrenPhoto from "../assets/TESTIMONIALS/darren.jpg";
 import mcMidwife from "../assets/UI_DESIGN/mathrucare/midwife-dashboard.png";
 import mcFlow from "../assets/UI_DESIGN/mathrucare/user-flow.png";
 import mcAdmin from "../assets/UI_DESIGN/mathrucare/admin-dashboard.png";
@@ -132,6 +133,13 @@ export const TESTIMONIALS = [
     name: "Dulithi De Silva",
     role: ["Creative Designer, ASE NSBM", "Creative Designer, Honda Stafford Motors"],
     photo: dulithiPhoto,
+  },
+  {
+    quote: "I had the pleasure of working with Nimeshi when she served as a Designer under my supervision at ASE. She consistently demonstrated an excellent work ethic, creative thinking, and an user centered mindset. Her creativity, attention to detail, and competency in translating ideas into meaningful design solutions reflect her natural aptitude for UI/UX design. Her dedication, problem solving skills, and passion for creating intuitive and engaging user experiences are qualities that truly distinguish her as a designer.",
+    name: "Jude Darren Victoria",
+    role: ["Past President, ASE NSBM", "Senior Forward Deployment Engineer, Affno Asia Pacific"],
+    photo: "darren.jpg",
+    photo: darrenPhoto,
   },
 ];
 

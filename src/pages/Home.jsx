@@ -21,7 +21,7 @@ export default function Home() {
           <p>{PROFILE.tagline}</p>
           <Socials />
         </div>
-      </section>
+      </section><br></br>
 
       <section className="section">
         <h2 className="display h-xl home-title center">Featured Work</h2>
@@ -51,7 +51,7 @@ export default function Home() {
           </div>
         </div>
         <div className="center"><a className="btn-outline" href="#/projects">VIEW ALL PROJECTS <FaArrowRight /></a></div>
-      </section>
+      </section><br></br>
 
       {TESTIMONIALS.length > 0 && (
         <section className="section">
