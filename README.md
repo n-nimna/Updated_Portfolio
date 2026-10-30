@@ -6,7 +6,5 @@ It showcases my UI/UX design skills, web development expertise, and various proj
 This site serves as a collection of my work, allowing potential clients, collaborators,  
 and employers to explore my skills, projects, and contact me for inquiries.
 
-https://n-nimna.github.io/Updated_Portfolio/
-
 
 
